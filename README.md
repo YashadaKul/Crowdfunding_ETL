@@ -21,11 +21,9 @@ We have used ETL methods to work on the data provided. We have then prepared sch
 - [Contact](#contact)
 
 ## Overview
-
-* Design a query to calculate the total number of stations in the dataset.
-* Design a query to find the most-active stations (that is, the stations that have the most rows).
-* Design a query to get the previous 12 months of temperature observation (TOBS) data.
-* design a Flask API based on the queries
+In this project, we were mainly asked to do the following:
+* Import data from the Resources folder, transform data by creating new columns, and create various dataframes. We were asked to use either Python dictionary methods or regular expressions and also split columns, convert data types and export new dataframes as csv files. 
+* In postgres, inspect the files created, sketch an ERD of the tables, create a table schema, specify data types and import each CSV file into its corresponding SQL table.
 
 ## Usage
 
